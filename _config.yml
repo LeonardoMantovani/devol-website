@@ -2,8 +2,8 @@
 title: Devol
 subtitle: Un web più libero è possibile
 description: Un web più libero è possibile.
-baseurl: "/devol-website" # the subpath of your site, e.g. /blog
-url: https://LeonardoMantovani.github.io # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://devol.it # the base hostname & protocol for your site
 
 # recapiti
 email: admin@devol.it
