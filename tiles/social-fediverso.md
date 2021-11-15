@@ -22,7 +22,7 @@ nav-menu: true
 		Il Fediverso, infatti, è un universo online in cui coesistono più social network diversi (uno per te a cui piacciono i post brevi, uno per il tuo amico fotografo, perfino uno per il tuo vicino di casa chitarrista) che però tra loro parlano la stessa lingua, così che tu possa seguire il tuo amico pur usando 2 social differenti! E c’è di più: tutto il codice che sta dietro al fediverso è open-source e chiunque può decidere di ospitare un’istanza del suo social preferito, mantenedo così il controllo su ciò che viene condiviso.<br>
 		Il web federato oggi sta crescendo molto velocemente. Ci sono probabilmente molte ragioni per questo. La sfiducia nelle piattaforme commerciali centralizzate e le fughe di dati che hanno subito. Apparizione di più piattaforme federate costruite intorno al nuovo protocollo ActivityPub sostenuto dal World Wide Web Consortium è stato poi fondamentale per costruire un ecosistema alternativo.
 		</p>
-		<p> Vuoi saperne di più sul Fediverso? Dai un'occhiata a <a href="{{ site.baseurl }}/it/fediverso">questo articolo</a></p>
+		<p> Vuoi saperne di più sul Fediverso? Dai un'occhiata a <a href="{{ "it/fediverso" | relative_url }}>questo articolo</a></p>
 	</div>
 </section>
 
@@ -43,13 +43,13 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://mastodon.uno" class="button">Mastodon.uno</a></li>
 					<li><a href="https://joinmastodon.org/apps" class="button">App per Mastodon</a></li>
-					<li><a href="{{ site.baseurl }}/it/mastodon" class="button">Di più su Mastodon</a></li>
+					<li><a href="{{ "/it/mastodon" | relative_url }}" class="button">Di più su Mastodon</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<img src="{{ site.baseurl }}/assets/images/logos/social/pixelfed.jpg" alt="">
+		<img src="{{ "assets/images/logos/social/pixelfed.jpg" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -65,7 +65,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ site.baseurl }}/assets/images/logos/social/writefreely.jpg" alt="">
+		<img src="{{ "assets/images/logos/social/writefreely.jpg" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -98,13 +98,13 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://peertube.uno" class="button">Peertube.uno</a></li>
 					<li><a href="https://peertube.devol.it" class="button">Peertube Devol</a></li>
-					<li><a href="{{ site.baseurl }}/it/peertube" class="button">Di più su Peertube</a></li>
+					<li><a href="{{ "it/peertube" | relative_url }}" class="button">Di più su Peertube</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-    <img src="{{ site.baseurl }}/assets/images/logos/eventi/mobilizon.jpg" alt="">
+    <img src="{{ "assets/images/logos/eventi/mobilizon.jpg" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -120,7 +120,7 @@ nav-menu: true
     </div>
   </section>
 	<section>
-		<img src="{{ site.baseurl }}/assets/images/logos/musica/funkwhale.jpg" alt="">
+		<img src="{{ "assets/images/logos/musica/funkwhale.jpg" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

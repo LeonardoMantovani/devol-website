@@ -29,13 +29,13 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://peertube.uno" class="button">Peertube.uno</a></li>
 					<li><a href="https://peertube.devol.it" class="button">Peertube Devol</a></li>
-					<li><a href="{{ site.baseurl }}/it/peertube" class="button">Di più su Peertube</a></li>
+					<li><a href="{{ it/peertube" | relative_url }}" class="button">Di più su Peertube</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<img src="{{ site.baseurl }}/assets/images/logos/video/alltubedownload.jpg" alt="">
+		<img src="{{ "assets/images/logos/video/alltubedownload.jpg" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
