@@ -49,7 +49,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/social/pixelfed.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/pixelfed.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -65,7 +65,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/social/writefreely.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/writefreely.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -104,7 +104,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-    <img src="{{ "assets/images/logos/eventi/mobilizon.jpg" | relative_url }}" alt="">
+    <img src="{{ "assets/images/logos/mobilizon.png" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -120,7 +120,7 @@ nav-menu: true
     </div>
   </section>
 	<section>
-		<img src="{{ "assets/images/logos/musica/funkwhale.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/funkwhale.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{{ "assets/images/logos/motori_di_ricerca/searx.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/searx.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -27,7 +27,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "/assets/images/logos/motori_di_ricerca/searchforplanet.jpg" | relative_url }}" alt="">
+		<img src="{{ "/assets/images/logos/searchforplanet.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

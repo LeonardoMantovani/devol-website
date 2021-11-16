@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{{ "assets/images/logos/musica/funkwhale.jpg" | relative_url }}" alt="">
+    <img src="{{ "assets/images/logos/funkwhale.png" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">
