@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{{ "assets/images/logos/testo_e_codice/etherpad.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/etherpad.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -29,7 +29,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/testo_e_codice/hedgedoc.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/hedgedoc.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -43,7 +43,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/testo_e_codice/privatebin.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/privatebin.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -60,7 +60,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/testo_e_codice/gitea.jpg" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/gitea.png" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

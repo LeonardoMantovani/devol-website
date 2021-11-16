@@ -1,7 +1,7 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
+@import "libs/vars";
+@import "libs/functions";
+@import "libs/mixins";
+@import "libs/skel";
 
 /*
 	Forty by HTML5 UP
@@ -11,40 +11,41 @@
 
 /* Button */
 
-	.button {
-		border: solid 2px !important;
+.button {
+  border: solid 2px !important;
 
-		&.next {
-			padding-right: 1.75em;
+  &.next {
+    padding-right: 1.75em;
 
-			&:before, &:after {
-				display: none;
-			}
-		}
-	}
+    &:before,
+    &:after {
+      display: none;
+    }
+  }
+}
 
 /* Tiles */
 
-	.tiles {
-		article {
-			width: 50%;
-			-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
-			background-size: cover;
-		}
-	}
+.tiles {
+  article {
+    width: 50%;
+    -ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+    background-size: cover;
+  }
+}
 
 /* Banner */
 
-	#banner {
-		-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
+#banner {
+  -ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 
-		&:after {
-			display: none;
-		}
-	}
+  &:after {
+    display: none;
+  }
+}
 
 /* Menu */
 
-	#menu {
-		background: _palette(bg);
-	}
+#menu {
+  background: _palette(bg);
+}

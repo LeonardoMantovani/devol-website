@@ -1,0 +1,13 @@
+{
+    "short_name": "",
+    "name": "",
+    "icons": [{
+      "src": "/devol-website/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }],
+    "start_url": "/?utm_source=homescreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}
+  

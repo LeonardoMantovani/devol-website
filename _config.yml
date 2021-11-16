@@ -21,11 +21,11 @@ tiles-count: 12
 fedi-socials:
   Telegram: https://t.me/devolitalia
   Mastodon: https://mastodon.uno/@devol
-  Peertube:
-  Writefreely:
+  Peertube: https://peertube.devol.it
+  Writefreely: https://noblogo.org
   Pixelfed: https://pixelfed.uno/devol
   Funkwhale:
-  Mobilizon:
+  Mobilizon: https://mobilizon.it
   Gitea: https://gitea.it/devol/
 
 socials:
