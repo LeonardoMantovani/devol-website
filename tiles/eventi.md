@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{{ site.baseurl }}/assets/images/logos/eventi/mobilizon.jpg" alt="">
+    <img src="{{ "assets/images/logos/eventi/mobilizon.jpg" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -28,7 +28,7 @@ nav-menu: true
     </div>
   </section>
   <section>
-    <img src="{{ site.baseurl }}/assets/images/logos/sondaggi/opensondage_temp.jpg" alt="">
+    <img src="{{ "/assets/images/logos/sondaggi/opensondage_temp.jpg" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">

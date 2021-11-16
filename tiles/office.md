@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{{ site.baseurl }}/assets/images/logos/office/cryptpad.png" alt="">
+    <img src="{{ "assets/images/logos/office/cryptpad.png" | relative_url }}" alt="">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -27,7 +27,7 @@ nav-menu: true
     </div>
   </section>
 	<section>
-		<img src="{{ site.baseurl }}/assets/images/logos/testo_e_codice/etherpad.jpg" alt="">
+		<img src="{{ "assets/images/logos/testo_e_codice/etherpad.jpg" | relative_url }}" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
