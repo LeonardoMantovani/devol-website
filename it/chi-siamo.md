@@ -58,7 +58,7 @@ Vogliamo essere completamente trasparenti e aperti nei confronti delle persone c
 
 ---
 ## Dove siamo oggi
-evol.it è uno strumento per aiutarvi a costruire il vostro Piccolo Web.
+Devol.it è uno strumento per aiutarvi a costruire il vostro Piccolo Web.
 
 Il primo passo verso lo Small Web è fornire strumenti per che consentano di sostituire il grande web centralizzato
 
