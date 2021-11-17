@@ -2,7 +2,7 @@
 title: Video
 layout: landing
 description:
-image: assets/images/tiles-covers/video2.jpg
+image: assets/images/tiles-covers/video2.png
 nav-menu: true
 ---
 
@@ -35,7 +35,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/alltubedownload.png" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/alltubedownload.png" | relative_url }}" loading="lazy">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

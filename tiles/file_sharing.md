@@ -2,7 +2,7 @@
 layout: landing
 title: Condivisione File
 description:
-image: assets/images/tiles-covers/file_sharing.jpg
+image: assets/images/tiles-covers/file_sharing.png
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 <section>
-  <img src="{{ "assets/images/logos/jirafeau.png" | relative_url }}" alt="">
+  <img src="{{ "assets/images/logos/jirafeau.png" | relative_url }}" loading="lazy">
   <div class="content">
     <div class="inner">
       <header class="major">

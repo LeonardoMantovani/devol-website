@@ -2,7 +2,7 @@
 
 Sito web per il collettivo Devol, per sostituire quello attualmente su [devol.it](https://devol.it)
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+![Forty Theme](assets/images/forty.png "Forty Theme")
 
 # Credits
 
