@@ -2,7 +2,7 @@
 title: Social e Fediverso
 layout: landing
 description:
-image: assets/images/tiles-covers/social.jpg
+image: assets/images/tiles-covers/social.png
 nav-menu: true
 ---
 
@@ -49,7 +49,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/pixelfed.png" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/pixelfed.png" | relative_url }}" loading="lazy">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -65,7 +65,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/writefreely.png" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/writefreely.png" | relative_url }}" loading="lazy">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -104,7 +104,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-    <img src="{{ "assets/images/logos/mobilizon.png" | relative_url }}" alt="">
+    <img src="{{ "assets/images/logos/mobilizon.png" | relative_url }}" loading="lazy">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -120,7 +120,7 @@ nav-menu: true
     </div>
   </section>
 	<section>
-		<img src="{{ "assets/images/logos/funkwhale.png" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/funkwhale.png" | relative_url }}" loading="lazy">
 		<div class="content">
 			<div class="inner">
 				<header class="major">

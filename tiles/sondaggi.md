@@ -2,7 +2,7 @@
 layout: landing
 title: Sondaggi
 description:
-image: assets/images/tiles-covers/sondaggi.jpg
+image: assets/images/tiles-covers/sondaggi.png
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{{ "assets/images/logos/opensondage_temp.png" | relative_url }}" alt="">
+    <img src="{{ "assets/images/logos/opensondage_temp.png" | relative_url }}" loading="lazy">
     <div class="content">
       <div class="inner">
         <header class="major">

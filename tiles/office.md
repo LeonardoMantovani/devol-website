@@ -2,7 +2,7 @@
 title: Office
 layout: landing
 description:
-image: assets/images/tiles-covers/office.jpg
+image: assets/images/tiles-covers/office.png
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <img src="{{ "assets/images/logos/cryptpad.png" | relative_url }}" alt="">
+    <img src="{{ "assets/images/logos/cryptpad.png" | relative_url }}" loading="lazy">
     <div class="content">
       <div class="inner">
         <header class="major">
@@ -27,7 +27,7 @@ nav-menu: true
     </div>
   </section>
 	<section>
-		<img src="{{ "assets/images/logos/etherpad.png" | relative_url }}" alt="">
+		<img src="{{ "assets/images/logos/etherpad.png" | relative_url }}" loading="lazy">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
