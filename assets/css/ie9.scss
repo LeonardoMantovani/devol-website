@@ -9,8 +9,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Spotlights */
-
+// Spotlights
 .spotlights {
   > section {
     &:after {
@@ -29,8 +28,7 @@
   }
 }
 
-/* Tiles */
-
+// Tiles
 .tiles {
   &:after {
     content: "";
@@ -47,8 +45,7 @@
   }
 }
 
-/* Header */
-
+// Header
 #header {
   .logo {
     position: absolute;
@@ -63,8 +60,7 @@
   }
 }
 
-/* Banner */
-
+// Banner
 #banner {
   @include padding(6em, 0, (1em, 0, 0, 0));
   background-attachment: scroll;
@@ -90,8 +86,7 @@
   }
 }
 
-/* Contact */
-
+// Contact
 #contact {
   &:after {
     content: "";
@@ -106,8 +101,7 @@
   }
 }
 
-/* Menu */
-
+// Menu
 #menu {
   .inner {
     margin: 0 auto;

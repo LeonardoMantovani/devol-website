@@ -19,7 +19,7 @@ Devol lavora per costruire un web decentralizzato, che sia più privato, affidab
 Per farlo, forniamo alternative libere, decentralizzate e rispettose della privacy. Niente tracking, niente pubblicità, niente profilazione, niente raccolta dati!
 
 <ul class="actions">
-  <li><a href="{{ site.baseurl }}/it/chi-siamo" class="button">Di più su di noi</a></li>
-  <li><a href="{{ site.baseurl }}/it/degooglizzazione" class="button">Cos'è la Degooglizzazione?</a></li>
-  <li><a href="{{ site.baseurl }}/it/guerrilla-open-access" class="button">"Guerrilla Open Access"</a></li>
+  <li><a href="{{ site.url | absolute_url }}/it/chi-siamo" class="button">Di più su di noi</a></li>
+  <li><a href="{{ site.url | absolute_url }}/it/degooglizzazione" class="button">Cos'è la Degooglizzazione?</a></li>
+  <li><a href="{{ site.url | absolute_url }}/it/guerrilla-open-access" class="button">"Guerrilla Open Access"</a></li>
 </ul>
