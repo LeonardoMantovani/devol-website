@@ -35,7 +35,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="{{ "assets/images/logos/alltubedownload.png" | relative_url }}" loading="lazy">
+		<img src="{{ "assets/images/logos/alltubedownload.png" | relative_url }}">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
