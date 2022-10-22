@@ -11,6 +11,7 @@ newsletter: https://buttondown.email/devol
 stanza-matrix: https://chat.mozilla.org/#/room/#mastodon:mozilla.org
 pagina-ko-fi: https://ko-fi.com/devol
 pagina-coindrop: https://coindrop.to/devol
+formspree_form_id: mzbwvlee
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
