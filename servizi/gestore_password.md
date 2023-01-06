@@ -33,25 +33,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Bitwarden</h3>
+					<h3>Bitwarden - Vaultwarden</h3>
 				</header>
-				<p>Il Gestore di Password open source più famoso, in un'istanza completa di tutte le sue funzionalità ospitata da noi Devol.</p> <!-- cambiare-->
+				<p>Bitwarden è il Gestore di Password open source più famoso, Vaultwarden è il suo fork opensource, molto più leggero e facile da gestire. Vaultwarden può essere usato con tutte le estensioni e le app ufficiali bitwarden e permette di avere tutte le funzioni premium gratuitamente.</p>
 				<ul class="actions">
-					<li><a href="https://bitwarden.devol.it" class="button">Bitwarden Devol</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<img src="{{ "assets/images/logos/keeweb.png" | relative_url }}">
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Keeweb</h3>
-				</header>
-				<p>Un client open-source per il noto gestore di password KeePass.</p> <!-- cambiare -->
-				<ul class="actions">
-					<li><a href="https://keeweb.devol.it" class="button">Keeweb Devol</a></li>
+					<li><a href="https://vaultwarden.devol.it" class="button">Vaultwarden Devol</a></li>
 				</ul>
 			</div>
 		</div>
